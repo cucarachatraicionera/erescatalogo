@@ -14,3 +14,11 @@ Descubre esta joya en el corazón de la región cafetera, una finca de 16,500 m�
 La finca ofrece amplias oportunidades de desarrollo, tanto en el ámbito agroindustrial como en proyectos de turismo rural. Además, su ubicación estratégica y la riqueza de su entorno natural hacen de esta propiedad una inversión única para disfrutar de la tranquilidad del campo colombiano.
 
 ¡Haz realidad tu sueño de vivir y producir en el corazón de la región cafetera!
+
+Área de terreno: 16.500 mt2 con casa colonial principal de 100 mt2
+
+Precio total: $850.000.000 Hasta Febrero de 2025
+
+Especificaciones: Finca cafetera con excelente lote para producción o parcelación. Casa principal en proceso de remodelación. A borde de carretera Via La Capilla (El Lembo, Santa Rosa de Cabal)
+
+Pago: Según negociación.

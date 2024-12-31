@@ -1,12 +1,12 @@
 ---
 title: "Lote en el Corazón del Turismo en Santa Rosa de Cabal"
 description: "meta description"
-image: "/images/posts/04.jpg"
+image: "/images/posts/post5.png"
 date: 2021-02-02
 draft: false
 authors: ["Natalia Martinez"]
-tags: ["lotes", "terrenos","lotes antioquia","propiedad raiz","lotes san jeronimo"]
-categories: ["lotes caldas"]
+tags: ["lotes", "terrenos","lotes risaralda","propiedad raiz","lotes santa rosa de cabal"]
+categories: ["lotes Risaralda"]
 ---
 
 Este lote, ubicado estratégicamente frente a la reconocida Finca del Café, se encuentra en uno de los sectores turísticos más destacados de Santa Rosa de Cabal. Ideal para proyectos residenciales, comerciales o turísticos, su privilegiada ubicación lo convierte en una inversión con alta proyección de valorización.

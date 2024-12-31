@@ -1,12 +1,12 @@
 ---
 title: "Lote Exclusivo en Condominio Los Nogales, Cerca de Chinchiná"
 description: "meta description"
-image: "/images/posts/06.jpg"
+image: "/images/posts/post6.png"
 date: 2021-02-03
 draft: false
 authors: ["Natalia Martinez"]
-tags: ["lotes", "terrenos","lotes antioquia","propiedad raiz","lotes san jeronimo"]
-categories: ["lotes caldas"]
+tags: ["lotes", "terrenos","lotes Caldas","propiedad raiz","lotes chinchiná"]
+categories: ["lotes Caldas"]
 ---
 
 Este lote de 634 m², ubicado en el prestigioso Condominio Los Nogales, se encuentra a tan solo 300 metros de Chinchiná y muy cerca del encantador lago de pesca. Rodeado de un entorno natural tranquilo, es el lugar perfecto para construir tu hogar en un espacio seguro y lleno de armonía.

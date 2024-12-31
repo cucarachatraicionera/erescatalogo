@@ -18,7 +18,7 @@ const BlogPagination = async ({ params }) => {
 
   return (
     <>
-      <SeoMeta title="Blog Pagination" />
+      <SeoMeta title="Eres" />
       <section className="section">
         <div className="container">
           <Posts className="mb-16" posts={currentPosts} authors={authors} />

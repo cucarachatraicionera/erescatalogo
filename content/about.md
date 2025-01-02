@@ -1,17 +1,17 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "Soy Natalia Martínez, diseñadora industrial y arquitectónica, actualmente en Caldas"
 meta_title: "About"
-image: "/images/author.jpg"
+image: "/images/author.png"
 layout: "about"
 draft: false
 
 # social sites
 social:
-  facebook: "https://www.facebook.com"
+  facebook: "https://www.facebook.com/profile.php?id=61558004919518"
   twitter: "https://www.twitter.com"
-  instagram: "https://www.instagram.com"
+  instagram: "https://www.instagram.com/lotesyfincas_eres/"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+ERES es una inmobiliaria dedicada a ayudarte a encontrar la propiedad ideal en Colombia. Ofrecemos una amplia variedad de opciones, desde lotes exclusivos, fincas productivas, casas campestres llenas de encanto, hasta apartamentos modernos y remates con grandes oportunidades.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Conocemos el mercado y las necesidades de nuestros clientes, brindando asesoría personalizada para garantizar inversiones inteligentes y seguras. ¡Tu próximo hogar o proyecto inmobiliario está con ayuda de ERES, tu mejor inversión!

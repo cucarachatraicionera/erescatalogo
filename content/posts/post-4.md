@@ -14,3 +14,7 @@ Este lote, ubicado estratégicamente frente a la reconocida Finca del Café, se 
 Con fácil acceso y rodeado por la belleza natural característica de la región, este espacio ofrece la posibilidad de desarrollar proyectos que aprovechen el flujo constante de visitantes y el atractivo de una zona turística consolidada.
 
 ¡Haz realidad tu proyecto en uno de los destinos más visitados del Eje Cafetero!
+
+Área del terreno: 430 mt2
+Precio total: $ 95.000.0000 COP
+Especificaciones: Lotes en Villa Verde – Pereira, en ladera inclinada de 35° ideales para casas de 3 niveles o casas tipo mirador. Con acceso vía pavimentada, doble vía.

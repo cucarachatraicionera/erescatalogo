@@ -14,3 +14,7 @@ Ubicados en el privilegiado sector de Villaverde, Pereira, estos lotes ofrecen u
 La ubicación estratégica permite disfrutar de la tranquilidad de la naturaleza sin perder la cercanía a la ciudad, brindando el balance perfecto entre confort y serenidad. Cada lote cuenta con delimitaciones claras, acceso a servicios básicos y un entorno que garantiza una alta valorización.
 
 ¡No pierdas la oportunidad de invertir en uno de los mejores sectores de Pereira para hacer realidad tu proyecto de vivienda o inversión!
+
+Área del terreno: 1.900 mt2
+Precio total: $ 495.000.000 COP
+Especificaciones: A borde de carretera, Al frente del Mirador de la Finca del Café – Santa Rosa de Cabal
